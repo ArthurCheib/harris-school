@@ -1,0 +1,339 @@
+field,2008.0,2009.0,2010.0,2011.0,2012.0,2013.0,2014.0,2015.0,2016.0,2017.0,sub_major_field,major_field
+Agricultural economics,111.0,116.0,118.0,106.0,88.0,107.0,96.0,101.0,113.0,144.0,Agricultural sciences and natural resources,Life sciences
+Agricultural and horticultural plant breeding,28.0,24.0,31.0,23.0,31.0,21.0,39.0,43.0,61.0,54.0,Agricultural sciences and natural resources,Life sciences
+Agricultural animal breeding,3.0,12.0,7.0,7.0,6.0,8.0,na,na,na,na,Agricultural sciences and natural resources,Life sciences
+Agronomy and crop science,68.0,77.0,69.0,54.0,73.0,86.0,80.0,81.0,82.0,102.0,Agricultural sciences and natural resources,Life sciences
+Animal nutrition,41.0,34.0,34.0,48.0,57.0,54.0,50.0,40.0,42.0,27.0,Agricultural sciences and natural resources,Life sciences
+"Animal science, poultry or avian",18.0,17.0,12.0,25.0,22.0,23.0,25.0,31.0,21.0,24.0,Agricultural sciences and natural resources,Life sciences
+"Animal sciences, other",77.0,74.0,54.0,69.0,75.0,85.0,103.0,90.0,83.0,105.0,Agricultural sciences and natural resources,Life sciences
+Environmental science,182.0,201.0,155.0,195.0,182.0,204.0,213.0,182.0,193.0,222.0,Agricultural sciences and natural resources,Life sciences
+Fishing and fisheries sciences and management,52.0,67.0,34.0,59.0,51.0,53.0,52.0,60.0,47.0,69.0,Agricultural sciences and natural resources,Life sciences
+Food science,96.0,110.0,100.0,73.0,108.0,105.0,93.0,125.0,123.0,125.0,Agricultural sciences and natural resources,Life sciences
+"Food science and technology, other",41.0,30.0,37.0,39.0,35.0,48.0,39.0,47.0,40.0,52.0,Agricultural sciences and natural resources,Life sciences
+Forest sciences and biology,32.0,43.0,23.0,26.0,25.0,19.0,22.0,37.0,15.0,89.0,Agricultural sciences and natural resources,Life sciences
+"Forest management, forest resources management",44.0,52.0,41.0,34.0,29.0,44.0,28.0,36.0,35.0,26.0,Agricultural sciences and natural resources,Life sciences
+"Forestry, other",17.0,26.0,17.0,35.0,29.0,26.0,20.0,22.0,29.0,38.0,Agricultural sciences and natural resources,Life sciences
+Horticulture science,50.0,55.0,42.0,48.0,40.0,41.0,51.0,50.0,32.0,42.0,Agricultural sciences and natural resources,Life sciences
+Natural resource and environmental policy,na,na,na,na,na,na,35.0,56.0,68.0,54.0,Agricultural sciences and natural resources,Life sciences
+Natural resources and conservation,78.0,84.0,88.0,100.0,99.0,92.0,70.0,87.0,72.0,63.0,Agricultural sciences and natural resources,Life sciences
+Natural resources and environmental economics (agricultural sciences),na,na,na,na,31.0,22.0,28.0,39.0,23.0,26.0,Agricultural sciences and natural resources,Life sciences
+"Plant pathology and phytopathology, agricultural",59.0,61.0,56.0,53.0,71.0,74.0,74.0,57.0,73.0,108.0,Agricultural sciences and natural resources,Life sciences
+"Plant sciences, other",39.0,60.0,49.0,51.0,77.0,67.0,78.0,95.0,52.0,62.0,Agricultural sciences and natural resources,Life sciences
+"Soil chemistry, microbiology",25.0,18.0,20.0,34.0,15.0,16.0,20.0,17.0,23.0,43.0,Agricultural sciences and natural resources,Life sciences
+"Soil sciences, other",67.0,49.0,39.0,39.0,37.0,51.0,45.0,54.0,38.0,52.0,Agricultural sciences and natural resources,Life sciences
+"Wildlife, range management",55.0,34.0,48.0,50.0,39.0,41.0,29.0,32.0,14.0,19.0,Agricultural sciences and natural resources,Life sciences
+"Wood science, pulp and paper technology",2.0,17.0,8.0,15.0,16.0,8.0,4.0,15.0,8.0,12.0,Agricultural sciences and natural resources,Life sciences
+"Agricultural sciences and natural resources, generala",8.0,8.0,2.0,9.0,8.0,9.0,25.0,21.0,73.0,34.0,Agricultural sciences and natural resources,Life sciences
+"Agricultural sciences and natural resources, otherb",5.0,14.0,16.0,14.0,11.0,20.0,19.0,16.0,21.0,14.0,Agricultural sciences and natural resources,Life sciences
+Anatomy,25.0,15.0,25.0,25.0,23.0,15.0,15.0,24.0,21.0,9.0,Biological and biomedical sciences,Life sciences
+Bacteriology,22.0,20.0,24.0,22.0,23.0,28.0,25.0,22.0,18.0,13.0,Biological and biomedical sciences,Life sciences
+Biochemistry (biological sciences),899.0,858.0,861.0,867.0,847.0,827.0,820.0,749.0,832.0,815.0,Biological and biomedical sciences,Life sciences
+Bioinformatics,147.0,175.0,123.0,140.0,145.0,166.0,183.0,174.0,194.0,183.0,Biological and biomedical sciences,Life sciences
+Biomedical sciences,268.0,300.0,287.0,311.0,366.0,401.0,438.0,417.0,330.0,341.0,Biological and biomedical sciences,Life sciences
+Biometrics and biostatistics,122.0,115.0,127.0,137.0,174.0,145.0,165.0,171.0,198.0,216.0,Biological and biomedical sciences,Life sciences
+Biophysics (biological sciences),167.0,195.0,171.0,192.0,193.0,179.0,186.0,181.0,165.0,208.0,Biological and biomedical sciences,Life sciences
+Biotechnology,32.0,26.0,22.0,33.0,54.0,39.0,45.0,38.0,36.0,33.0,Biological and biomedical sciences,Life sciences
+Botany and plant biology,105.0,113.0,110.0,110.0,110.0,91.0,93.0,97.0,112.0,100.0,Biological and biomedical sciences,Life sciences
+Cancer biology,289.0,273.0,300.0,396.0,381.0,379.0,455.0,454.0,437.0,364.0,Biological and biomedical sciences,Life sciences
+"Cell, cellular biology, and histology",376.0,354.0,361.0,379.0,376.0,318.0,335.0,321.0,259.0,234.0,Biological and biomedical sciences,Life sciences
+Computational biology,na,na,69.0,65.0,94.0,115.0,117.0,107.0,134.0,147.0,Biological and biomedical sciences,Life sciences
+Developmental biology and embryology,185.0,185.0,193.0,205.0,174.0,197.0,198.0,187.0,162.0,130.0,Biological and biomedical sciences,Life sciences
+Ecology,439.0,456.0,431.0,404.0,415.0,468.0,449.0,453.0,482.0,432.0,Biological and biomedical sciences,Life sciences
+Endocrinology,22.0,33.0,23.0,32.0,26.0,39.0,26.0,22.0,11.0,21.0,Biological and biomedical sciences,Life sciences
+Entomology,119.0,131.0,122.0,113.0,120.0,118.0,112.0,109.0,127.0,129.0,Biological and biomedical sciences,Life sciences
+Environmental toxicologyc,na,na,39.0,30.0,45.0,33.0,49.0,35.0,45.0,64.0,Biological and biomedical sciences,Life sciences
+Epidemiologyd,na,na,na,na,na,na,292.0,378.0,343.0,351.0,Biological and biomedical sciences,Life sciences
+Evolutionary biology,178.0,215.0,214.0,213.0,203.0,209.0,215.0,210.0,200.0,224.0,Biological and biomedical sciences,Life sciences
+"Genetics, genomics, human and animal",413.0,364.0,383.0,374.0,334.0,396.0,401.0,359.0,339.0,345.0,Biological and biomedical sciences,Life sciences
+Immunology,424.0,434.0,452.0,449.0,455.0,471.0,456.0,471.0,399.0,401.0,Biological and biomedical sciences,Life sciences
+Microbiology,538.0,586.0,490.0,462.0,451.0,455.0,463.0,480.0,466.0,410.0,Biological and biomedical sciences,Life sciences
+Molecular biology,786.0,763.0,697.0,716.0,620.0,646.0,670.0,632.0,549.0,624.0,Biological and biomedical sciences,Life sciences
+Molecular medicine,na,na,na,na,na,na,na,na,25.0,67.0,Biological and biomedical sciences,Life sciences
+"Neurosciences, neurobiologye",883.0,983.0,954.0,958.0,1053.0,1016.0,1048.0,1091.0,997.0,985.0,Biological and biomedical sciences,Life sciences
+Nutrition sciences,176.0,174.0,180.0,163.0,183.0,177.0,175.0,184.0,204.0,215.0,Biological and biomedical sciences,Life sciences
+Parasitology,23.0,24.0,37.0,26.0,29.0,26.0,26.0,31.0,20.0,16.0,Biological and biomedical sciences,Life sciences
+"Pathology, human and animal",105.0,106.0,79.0,83.0,95.0,95.0,99.0,88.0,49.0,69.0,Biological and biomedical sciences,Life sciences
+"Pharmacology, human and animal",281.0,343.0,290.0,301.0,308.0,286.0,292.0,243.0,208.0,236.0,Biological and biomedical sciences,Life sciences
+"Physiology, human and animal",241.0,244.0,258.0,226.0,254.0,210.0,208.0,210.0,166.0,165.0,Biological and biomedical sciences,Life sciences
+Plant genetics,47.0,48.0,52.0,45.0,41.0,37.0,48.0,57.0,67.0,49.0,Biological and biomedical sciences,Life sciences
+Plant pathology and phytopathology (biological sciences),29.0,26.0,19.0,18.0,25.0,21.0,29.0,20.0,13.0,11.0,Biological and biomedical sciences,Life sciences
+Plant physiology,26.0,13.0,28.0,15.0,19.0,25.0,17.0,18.0,13.0,16.0,Biological and biomedical sciences,Life sciences
+Structural biology,na,na,53.0,71.0,57.0,67.0,59.0,64.0,47.0,55.0,Biological and biomedical sciences,Life sciences
+Toxicology,137.0,120.0,99.0,96.0,101.0,99.0,117.0,104.0,85.0,81.0,Biological and biomedical sciences,Life sciences
+Virology,na,na,134.0,178.0,162.0,162.0,163.0,164.0,142.0,109.0,Biological and biomedical sciences,Life sciences
+Wildlife biology,na,na,na,na,na,na,36.0,47.0,47.0,62.0,Biological and biomedical sciences,Life sciences
+Zoology,61.0,79.0,72.0,65.0,51.0,40.0,32.0,46.0,38.0,44.0,Biological and biomedical sciences,Life sciences
+"Biological and biomedical sciences, general",150.0,173.0,184.0,168.0,223.0,256.0,245.0,258.0,770.0,391.0,Biological and biomedical sciences,Life sciences
+"Biological and biomedical sciences, other",82.0,81.0,83.0,64.0,92.0,103.0,66.0,72.0,123.0,112.0,Biological and biomedical sciences,Life sciences
+Environmental health,69.0,42.0,66.0,56.0,67.0,70.0,77.0,79.0,76.0,84.0,Health sciences,Life sciences
+Environmental toxicologyc,43.0,37.0,na,na,na,na,na,na,na,na,Health sciences,Life sciences
+Epidemiologyd,305.0,273.0,324.0,314.0,365.0,353.0,na,na,na,na,Health sciences,Life sciences
+Gerontology (health sciences),na,na,10.0,15.0,14.0,13.0,14.0,13.0,25.0,22.0,Health sciences,Life sciences
+Health and behavior,na,na,na,na,na,na,88.0,125.0,119.0,82.0,Health sciences,Life sciences
+Health services research,na,na,na,na,na,na,na,na,120.0,164.0,Health sciences,Life sciences
+Health systems administration,70.0,70.0,75.0,84.0,51.0,89.0,89.0,70.0,41.0,39.0,Health sciences,Life sciences
+"Kinesiology, exercise sciencef",212.0,211.0,215.0,198.0,228.0,214.0,249.0,264.0,232.0,276.0,Health sciences,Life sciences
+"Medical physics, radiological science",na,na,61.0,74.0,80.0,93.0,103.0,84.0,94.0,89.0,Health sciences,Life sciences
+Nursing science,504.0,511.0,482.0,523.0,552.0,510.0,580.0,536.0,482.0,552.0,Health sciences,Life sciences
+"Oral biology, oral pathology",na,na,15.0,22.0,15.0,20.0,15.0,19.0,23.0,33.0,Health sciences,Life sciences
+Pharmaceutical sciencesg,277.0,277.0,274.0,271.0,295.0,332.0,279.0,270.0,274.0,292.0,Health sciences,Life sciences
+Public health,229.0,299.0,295.0,266.0,349.0,431.0,400.0,437.0,379.0,446.0,Health sciences,Life sciences
+"Rehabilitation, therapeutic services",89.0,80.0,61.0,60.0,80.0,85.0,83.0,86.0,108.0,86.0,Health sciences,Life sciences
+Speech-language pathology and audiology,112.0,121.0,100.0,110.0,119.0,110.0,114.0,117.0,116.0,128.0,Health sciences,Life sciences
+Veterinary sciences,54.0,60.0,57.0,60.0,59.0,67.0,42.0,56.0,49.0,51.0,Health sciences,Life sciences
+"Health sciences, general",31.0,35.0,37.0,41.0,37.0,62.0,39.0,36.0,93.0,67.0,Health sciences,Life sciences
+"Health sciences, other",96.0,79.0,101.0,83.0,76.0,80.0,106.0,85.0,69.0,98.0,Health sciences,Life sciences
+Analytical chemistry,371.0,364.0,402.0,391.0,370.0,417.0,415.0,388.0,393.0,367.0,Chemistry,Physical sciences and earth sciences
+Chemical biology,na,na,na,na,na,na,na,na,120.0,142.0,Chemistry,Physical sciences and earth sciences
+Inorganic chemistry,301.0,331.0,294.0,320.0,307.0,297.0,372.0,354.0,343.0,339.0,Chemistry,Physical sciences and earth sciences
+Medicinal chemistryh,na,na,na,na,na,na,86.0,79.0,72.0,69.0,Chemistry,Physical sciences and earth sciences
+Organic chemistry,640.0,684.0,599.0,663.0,667.0,643.0,605.0,626.0,565.0,523.0,Chemistry,Physical sciences and earth sciences
+Physical chemistry,331.0,319.0,360.0,390.0,360.0,355.0,340.0,366.0,379.0,332.0,Chemistry,Physical sciences and earth sciences
+Polymer chemistry,106.0,119.0,126.0,123.0,125.0,125.0,127.0,135.0,151.0,152.0,Chemistry,Physical sciences and earth sciences
+Theoretical chemistry,80.0,86.0,86.0,69.0,78.0,74.0,103.0,111.0,88.0,85.0,Chemistry,Physical sciences and earth sciences
+"Chemistry, general",271.0,298.0,269.0,289.0,290.0,364.0,416.0,399.0,412.0,539.0,Chemistry,Physical sciences and earth sciences
+"Chemistry, other",146.0,190.0,168.0,187.0,219.0,209.0,209.0,210.0,181.0,149.0,Chemistry,Physical sciences and earth sciences
+Atmospheric science and meteorology,188.0,167.0,170.0,178.0,205.0,205.0,200.0,213.0,245.0,243.0,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences
+Atmospheric chemistry and climatology,49.0,30.0,39.0,43.0,50.0,49.0,42.0,36.0,41.0,55.0,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences
+Atmospheric physics and dynamics,59.0,43.0,45.0,40.0,51.0,43.0,51.0,59.0,58.0,30.0,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences
+Meteorology,23.0,14.0,15.0,29.0,18.0,18.0,32.0,30.0,20.0,15.0,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences
+"Atmospheric science and meteorology, general",40.0,55.0,47.0,47.0,61.0,77.0,55.0,62.0,108.0,107.0,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences
+"Atmospheric science and meteorology, other",17.0,25.0,24.0,19.0,25.0,18.0,20.0,26.0,18.0,36.0,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences
+Geological sciences,458.0,492.0,463.0,451.0,462.0,489.0,579.0,554.0,618.0,576.0,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences
+Geochemistry,78.0,78.0,74.0,70.0,68.0,73.0,85.0,94.0,81.0,69.0,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences
+Geology,141.0,140.0,128.0,124.0,112.0,126.0,130.0,135.0,127.0,124.0,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences
+"Geomorphology, glacial geology",12.0,22.0,28.0,23.0,16.0,32.0,25.0,27.0,24.0,22.0,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences
+Geophysics and seismology,116.0,102.0,94.0,95.0,95.0,113.0,151.0,123.0,138.0,124.0,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences
+Mineralogy and petrology,16.0,12.0,13.0,19.0,19.0,16.0,15.0,21.0,6.0,9.0,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences
+Paleontology,26.0,31.0,31.0,38.0,41.0,31.0,38.0,30.0,30.0,27.0,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences
+Stratigraphy and sedimentation,10.0,18.0,18.0,16.0,16.0,22.0,15.0,17.0,12.0,12.0,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences
+"Geological and earth sciences, general",25.0,31.0,36.0,26.0,34.0,33.0,60.0,55.0,155.0,138.0,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences
+"Geological and earth sciences, other",34.0,58.0,41.0,40.0,61.0,43.0,60.0,52.0,45.0,51.0,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences
+Ocean and marine sciences,219.0,218.0,229.0,223.0,274.0,295.0,320.0,290.0,364.0,346.0,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences
+Hydrology and water resources,45.0,38.0,47.0,48.0,52.0,51.0,63.0,76.0,130.0,97.0,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences
+Marine biology and biological oceanography,na,na,na,na,100.0,111.0,111.0,85.0,90.0,111.0,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences
+Marine sciences,75.0,79.0,79.0,69.0,36.0,26.0,41.0,42.0,54.0,53.0,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences
+"Oceanography, chemical and physical",83.0,81.0,87.0,90.0,70.0,92.0,89.0,67.0,79.0,70.0,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences
+"Ocean and marine sciences, other",16.0,20.0,16.0,16.0,16.0,15.0,16.0,20.0,11.0,15.0,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences
+Astronomy and astrophysics,249.0,262.0,266.0,287.0,274.0,301.0,289.0,269.0,315.0,336.0,Physics and astronomy,Physical sciences and earth sciences
+Astronomy,101.0,97.0,102.0,88.0,88.0,103.0,112.0,86.0,95.0,121.0,Physics and astronomy,Physical sciences and earth sciences
+Astrophysics,148.0,165.0,155.0,185.0,175.0,184.0,171.0,174.0,211.0,211.0,Physics and astronomy,Physical sciences and earth sciences
+"Astronomy and astrophysics, other",na,na,9.0,14.0,11.0,14.0,6.0,9.0,9.0,4.0,Physics and astronomy,Physical sciences and earth sciences
+Physics,1586.0,1630.0,1563.0,1700.0,1788.0,1810.0,1850.0,1924.0,2006.0,1883.0,Physics and astronomy,Physical sciences and earth sciences
+Acoustics,15.0,21.0,15.0,20.0,10.0,22.0,20.0,19.0,17.0,16.0,Physics and astronomy,Physical sciences and earth sciences
+Applied physics,137.0,133.0,143.0,144.0,138.0,180.0,157.0,146.0,229.0,178.0,Physics and astronomy,Physical sciences and earth sciences
+"Atomic, molecular, chemical physics",119.0,104.0,105.0,125.0,116.0,118.0,121.0,125.0,137.0,125.0,Physics and astronomy,Physical sciences and earth sciences
+Biophysics (physics),119.0,104.0,123.0,132.0,130.0,133.0,131.0,127.0,138.0,134.0,Physics and astronomy,Physical sciences and earth sciences
+"Condensed matter, low-temperature physics",397.0,401.0,379.0,383.0,390.0,413.0,389.0,439.0,350.0,343.0,Physics and astronomy,Physical sciences and earth sciences
+Elementary particle physics,210.0,218.0,196.0,229.0,282.0,272.0,244.0,242.0,231.0,354.0,Physics and astronomy,Physical sciences and earth sciences
+Nuclear physics,62.0,74.0,86.0,81.0,92.0,75.0,103.0,86.0,92.0,103.0,Physics and astronomy,Physical sciences and earth sciences
+"Optics, photonics",148.0,164.0,145.0,165.0,165.0,174.0,194.0,216.0,225.0,197.0,Physics and astronomy,Physical sciences and earth sciences
+"Plasma, high-temperature physics",59.0,58.0,50.0,83.0,66.0,71.0,83.0,88.0,79.0,65.0,Physics and astronomy,Physical sciences and earth sciences
+Polymer physics,43.0,25.0,18.0,20.0,19.0,32.0,44.0,26.0,43.0,32.0,Physics and astronomy,Physical sciences and earth sciences
+"Physics, general",159.0,211.0,213.0,189.0,241.0,192.0,230.0,285.0,356.0,248.0,Physics and astronomy,Physical sciences and earth sciences
+"Physics, other",118.0,117.0,90.0,129.0,139.0,128.0,134.0,125.0,109.0,88.0,Physics and astronomy,Physical sciences and earth sciences
+Computer science,1499.0,1361.0,1356.0,1393.0,1482.0,1568.0,1664.0,1658.0,1651.0,1587.0,Computer and information sciences,Mathematics and computer sciences
+"Information science, systems",181.0,140.0,158.0,165.0,173.0,152.0,152.0,158.0,174.0,162.0,Computer and information sciences,Mathematics and computer sciences
+"Computer and information sciences, general",na,na,na,na,na,na,94.0,117.0,161.0,123.0,Computer and information sciences,Mathematics and computer sciences
+"Computer and information sciences, other",107.0,109.0,119.0,109.0,138.0,123.0,78.0,70.0,98.0,115.0,Computer and information sciences,Mathematics and computer sciences
+Algebra,124.0,139.0,150.0,152.0,149.0,151.0,174.0,146.0,83.0,103.0,Mathematics and statistics,Mathematics and computer sciences
+Analysis and functional analysis,112.0,130.0,143.0,145.0,134.0,159.0,137.0,161.0,97.0,78.0,Mathematics and statistics,Mathematics and computer sciences
+Applied mathematics,360.0,382.0,401.0,432.0,462.0,455.0,476.0,435.0,474.0,477.0,Mathematics and statistics,Mathematics and computer sciences
+Computing theory and practice,26.0,16.0,16.0,20.0,14.0,22.0,19.0,24.0,15.0,20.0,Mathematics and statistics,Mathematics and computer sciences
+"Geometry, geometric analysis",100.0,89.0,104.0,120.0,112.0,119.0,120.0,108.0,52.0,63.0,Mathematics and statistics,Mathematics and computer sciences
+Logic,25.0,38.0,22.0,17.0,15.0,33.0,26.0,21.0,14.0,15.0,Mathematics and statistics,Mathematics and computer sciences
+Number theory,62.0,64.0,71.0,73.0,63.0,79.0,82.0,89.0,48.0,55.0,Mathematics and statistics,Mathematics and computer sciences
+Operations research (mathematics),27.0,28.0,27.0,27.0,26.0,15.0,28.0,34.0,45.0,34.0,Mathematics and statistics,Mathematics and computer sciences
+Statistics (mathematics),303.0,353.0,327.0,332.0,365.0,364.0,407.0,381.0,265.0,502.0,Mathematics and statistics,Mathematics and computer sciences
+Topology and foundations,58.0,73.0,84.0,73.0,74.0,78.0,77.0,86.0,41.0,47.0,Mathematics and statistics,Mathematics and computer sciences
+"Mathematics and statistics, general",140.0,173.0,163.0,143.0,192.0,234.0,235.0,243.0,686.0,394.0,Mathematics and statistics,Mathematics and computer sciences
+"Mathematics and statistics, other",63.0,68.0,82.0,72.0,97.0,108.0,93.0,87.0,52.0,68.0,Mathematics and statistics,Mathematics and computer sciences
+Behavioral analysis,na,na,na,na,44.0,54.0,51.0,63.0,65.0,51.0,Psychology,Psychology and social sciences
+Clinical psychology,1142.0,1201.0,1151.0,1229.0,1228.0,1140.0,1220.0,1172.0,1217.0,1149.0,Psychology,Psychology and social sciences
+Cognitive neuroscience,na,na,na,na,na,na,na,na,161.0,199.0,Psychology,Psychology and social sciences
+Cognitive psychology and psycholinguistics,181.0,189.0,220.0,204.0,199.0,219.0,201.0,221.0,165.0,121.0,Psychology,Psychology and social sciences
+Community psychology,na,na,na,na,na,na,na,na,34.0,38.0,Psychology,Psychology and social sciences
+Comparative psychology,9.0,9.0,na,na,na,na,na,na,na,na,Psychology,Psychology and social sciences
+Counseling,422.0,422.0,408.0,427.0,392.0,425.0,378.0,417.0,315.0,317.0,Psychology,Psychology and social sciences
+Developmental and child psychology,197.0,182.0,191.0,218.0,205.0,227.0,245.0,190.0,236.0,201.0,Psychology,Psychology and social sciences
+Educational psychology (psychology),69.0,73.0,70.0,62.0,67.0,60.0,65.0,60.0,108.0,139.0,Psychology,Psychology and social sciences
+Experimental psychology,137.0,145.0,142.0,147.0,134.0,141.0,143.0,144.0,144.0,159.0,Psychology,Psychology and social sciences
+Family psychology,42.0,34.0,45.0,33.0,41.0,33.0,41.0,55.0,12.0,5.0,Psychology,Psychology and social sciences
+"Health, medical psychology",na,na,na,na,46.0,65.0,80.0,102.0,53.0,62.0,Psychology,Psychology and social sciences
+Human development and family studies,121.0,146.0,145.0,145.0,136.0,138.0,141.0,134.0,191.0,206.0,Psychology,Psychology and social sciences
+Industrial and organizational psychology,215.0,196.0,207.0,200.0,222.0,214.0,203.0,221.0,217.0,191.0,Psychology,Psychology and social sciences
+"Marriage and family therapy, counseling",na,na,na,na,na,na,na,na,77.0,74.0,Psychology,Psychology and social sciences
+"Neuropsychology, physiological psychologyi",81.0,87.0,82.0,77.0,101.0,112.0,122.0,130.0,69.0,42.0,Psychology,Psychology and social sciences
+Personality psychology,18.0,19.0,22.0,23.0,20.0,15.0,21.0,21.0,23.0,16.0,Psychology,Psychology and social sciences
+Psychometrics and quantitative psychology,23.0,29.0,36.0,35.0,34.0,44.0,33.0,48.0,49.0,51.0,Psychology,Psychology and social sciences
+School psychology (psychology),132.0,122.0,107.0,110.0,118.0,114.0,110.0,116.0,128.0,372.0,Psychology,Psychology and social sciences
+Social psychology,204.0,226.0,210.0,228.0,246.0,211.0,242.0,220.0,219.0,213.0,Psychology,Psychology and social sciences
+"Psychology, general",198.0,209.0,185.0,228.0,220.0,229.0,275.0,290.0,298.0,140.0,Psychology,Psychology and social sciences
+"Psychology, other",166.0,183.0,200.0,210.0,146.0,151.0,153.0,172.0,150.0,214.0,Psychology,Psychology and social sciences
+Social sciences,4278.0,4473.0,4462.0,4645.0,4899.0,4988.0,5027.0,5302.0,5129.0,5119.0,Psychology,Psychology and social sciences
+"Anthropology, cultural",na,na,na,na,na,na,267.0,317.0,290.0,261.0,Anthropology,Psychology and social sciences
+"Anthropology, generalj",483.0,503.0,507.0,553.0,547.0,550.0,185.0,99.0,90.0,110.0,Anthropology,Psychology and social sciences
+"Anthropology, physical and biological",na,na,na,na,na,na,72.0,76.0,80.0,84.0,Anthropology,Psychology and social sciences
+Econometrics,36.0,31.0,34.0,28.0,40.0,48.0,46.0,40.0,38.0,23.0,Economics,Psychology and social sciences
+Natural resources and environmental economics (social sciences),na,na,na,na,48.0,49.0,49.0,47.0,59.0,53.0,Economics,Psychology and social sciences
+Other economics,1055.0,1087.0,1039.0,1093.0,1155.0,1086.0,1100.0,1168.0,1139.0,1161.0,Economics,Psychology and social sciences
+"American, U.S. studies",121.0,116.0,115.0,132.0,121.0,122.0,121.0,130.0,111.0,97.0,Other social sciences,Psychology and social sciences
+Applied linguistics,na,na,na,na,na,na,na,na,81.0,105.0,Other social sciences,Psychology and social sciences
+"Area, ethnic, cultural studiesk",114.0,112.0,111.0,110.0,113.0,98.0,90.0,80.0,189.0,168.0,Other social sciences,Psychology and social sciences
+Criminal justice and corrections,74.0,75.0,74.0,80.0,80.0,75.0,80.0,111.0,93.0,108.0,Other social sciences,Psychology and social sciences
+Criminology,54.0,61.0,52.0,101.0,86.0,76.0,78.0,105.0,104.0,94.0,Other social sciences,Psychology and social sciences
+Demography and population studies,23.0,18.0,13.0,30.0,17.0,27.0,32.0,21.0,37.0,22.0,Other social sciences,Psychology and social sciences
+Gender and women's studies,na,na,na,na,na,na,40.0,34.0,72.0,49.0,Other social sciences,Psychology and social sciences
+Geography,249.0,209.0,225.0,233.0,270.0,251.0,293.0,301.0,245.0,284.0,Other social sciences,Psychology and social sciences
+Gerontology (social sciences),na,na,18.0,27.0,31.0,32.0,28.0,24.0,22.0,29.0,Other social sciences,Psychology and social sciences
+Health policy analysis,na,na,na,na,41.0,69.0,50.0,81.0,61.0,54.0,Other social sciences,Psychology and social sciences
+"International relations, international affairs",82.0,101.0,107.0,113.0,124.0,119.0,105.0,104.0,137.0,149.0,Other social sciences,Psychology and social sciences
+Linguistics,254.0,275.0,240.0,270.0,258.0,285.0,276.0,288.0,237.0,208.0,Other social sciences,Psychology and social sciences
+Public policy analysis,196.0,228.0,244.0,223.0,263.0,279.0,277.0,293.0,230.0,240.0,Other social sciences,Psychology and social sciences
+Statistics (social sciences),20.0,17.0,21.0,22.0,19.0,24.0,20.0,22.0,44.0,15.0,Other social sciences,Psychology and social sciences
+"Urban, city, community and regional planning",116.0,92.0,106.0,104.0,121.0,114.0,111.0,128.0,131.0,148.0,Other social sciences,Psychology and social sciences
+"Urban studies, affairs",28.0,33.0,34.0,31.0,34.0,39.0,35.0,31.0,39.0,43.0,Other social sciences,Psychology and social sciences
+"Social sciences, general",37.0,51.0,48.0,39.0,32.0,55.0,59.0,55.0,99.0,45.0,Other social sciences,Psychology and social sciences
+"Social sciences, other",107.0,120.0,107.0,114.0,142.0,151.0,157.0,146.0,141.0,128.0,Other social sciences,Psychology and social sciences
+Agricultural engineering,61.0,64.0,58.0,60.0,68.0,75.0,80.0,67.0,62.0,79.0,Other engineering,Engineering
+Ceramic sciences engineering,7.0,5.0,11.0,7.0,5.0,3.0,na,na,na,na,Other engineering,Engineering
+Communications engineering,26.0,26.0,15.0,16.0,24.0,31.0,29.0,30.0,19.0,15.0,Other engineering,Engineering
+Computer engineering,386.0,380.0,374.0,372.0,406.0,417.0,465.0,410.0,401.0,419.0,Other engineering,Engineering
+"Engineering management, administration",39.0,40.0,38.0,37.0,44.0,59.0,44.0,45.0,29.0,55.0,Other engineering,Engineering
+Engineering mechanics,60.0,63.0,46.0,63.0,48.0,70.0,70.0,66.0,101.0,57.0,Other engineering,Engineering
+Engineering physics,26.0,31.0,31.0,32.0,17.0,34.0,30.0,36.0,24.0,26.0,Other engineering,Engineering
+Engineering science,35.0,42.0,52.0,51.0,45.0,41.0,60.0,72.0,33.0,66.0,Other engineering,Engineering
+"Environmental, environmental health engineeringl",153.0,120.0,112.0,144.0,214.0,269.0,270.0,282.0,216.0,221.0,Other engineering,Engineering
+Geotechnical and geoenvironmental engineering,na,na,na,na,49.0,51.0,72.0,68.0,81.0,75.0,Other engineering,Engineering
+Metallurgical engineering,22.0,26.0,11.0,30.0,16.0,25.0,24.0,34.0,31.0,25.0,Other engineering,Engineering
+Mining and mineral engineering,13.0,14.0,7.0,6.0,14.0,29.0,na,na,na,na,Other engineering,Engineering
+Nuclear engineering,99.0,73.0,91.0,107.0,101.0,119.0,156.0,130.0,131.0,159.0,Other engineering,Engineering
+Ocean engineering,25.0,29.0,23.0,26.0,21.0,30.0,30.0,36.0,26.0,25.0,Other engineering,Engineering
+Operations research (engineering),80.0,79.0,85.0,83.0,90.0,119.0,117.0,88.0,130.0,114.0,Other engineering,Engineering
+Petroleum engineering,44.0,54.0,51.0,56.0,67.0,92.0,107.0,104.0,99.0,86.0,Other engineering,Engineering
+"Polymer, plastics engineering",49.0,60.0,57.0,71.0,67.0,61.0,63.0,80.0,60.0,90.0,Other engineering,Engineering
+Robotics,na,na,31.0,46.0,50.0,59.0,80.0,82.0,120.0,98.0,Other engineering,Engineering
+Structural engineering,na,na,66.0,69.0,81.0,81.0,101.0,125.0,117.0,103.0,Other engineering,Engineering
+Systems engineering,80.0,67.0,68.0,79.0,82.0,114.0,95.0,105.0,113.0,121.0,Other engineering,Engineering
+Transportation and highway engineering,na,na,na,na,76.0,80.0,101.0,106.0,109.0,84.0,Other engineering,Engineering
+"Engineering, general",43.0,44.0,36.0,36.0,43.0,24.0,40.0,42.0,108.0,51.0,Other engineering,Engineering
+"Engineering, other",116.0,116.0,128.0,134.0,129.0,134.0,157.0,170.0,146.0,258.0,Other engineering,Engineering
+Educational administration and supervision,665.0,585.0,320.0,217.0,219.0,187.0,170.0,169.0,148.0,176.0,Education administration,Education
+"Educational and human resource studies, development",na,na,na,na,78.0,93.0,62.0,68.0,62.0,172.0,Education administration,Education
+Educational leadership,1573.0,1561.0,1029.0,649.0,673.0,601.0,605.0,620.0,554.0,591.0,Education administration,Education
+Urban education and leadership,na,na,90.0,58.0,87.0,84.0,56.0,63.0,59.0,84.0,Education administration,Education
+"Counseling education, counseling and guidance",208.0,233.0,211.0,223.0,223.0,257.0,229.0,292.0,277.0,269.0,Education research,Education
+Curriculum and instruction,744.0,782.0,617.0,590.0,583.0,586.0,552.0,585.0,380.0,514.0,Education research,Education
+Educational and instructional media design,177.0,150.0,121.0,133.0,30.0,17.0,18.0,30.0,26.0,19.0,Education research,Education
+Educational and instructional technology,na,na,na,na,164.0,241.0,192.0,201.0,224.0,233.0,Education research,Education
+"Educational assessment, testing, measurement",73.0,89.0,65.0,73.0,57.0,63.0,53.0,65.0,66.0,41.0,Education research,Education
+Educational policy analysis,na,na,122.0,151.0,157.0,171.0,152.0,168.0,173.0,127.0,Education research,Education
+Educational psychology (education),306.0,326.0,269.0,287.0,302.0,283.0,261.0,286.0,221.0,229.0,Education research,Education
+"Educational statistics, research methods",66.0,60.0,68.0,79.0,70.0,84.0,74.0,92.0,76.0,83.0,Education research,Education
+Higher education evaluation and research,578.0,512.0,420.0,384.0,448.0,435.0,446.0,519.0,449.0,434.0,Education research,Education
+International education,na,na,65.0,60.0,52.0,65.0,70.0,55.0,56.0,45.0,Education research,Education
+School psychology (education),103.0,116.0,132.0,128.0,117.0,131.0,145.0,132.0,117.0,107.0,Education research,Education
+Social and philosophical foundations of education,122.0,124.0,92.0,100.0,98.0,84.0,92.0,90.0,63.0,66.0,Education research,Education
+Special education,263.0,271.0,261.0,230.0,268.0,286.0,276.0,257.0,256.0,238.0,Education research,Education
+Adult and continuing teacher education,118.0,138.0,91.0,64.0,49.0,23.0,53.0,39.0,64.0,29.0,Teacher education,Education
+Elementary teacher education,63.0,66.0,48.0,45.0,40.0,26.0,36.0,37.0,36.0,29.0,Teacher education,Education
+"Pre-elementary, early childhood teacher education",60.0,80.0,58.0,52.0,29.0,35.0,29.0,47.0,51.0,33.0,Teacher education,Education
+Secondary teacher education,33.0,48.0,48.0,43.0,38.0,25.0,34.0,33.0,29.0,21.0,Teacher education,Education
+Agricultural education,33.0,29.0,34.0,28.0,30.0,27.0,25.0,30.0,36.0,33.0,Teaching fields,Education
+Art education,44.0,46.0,35.0,48.0,36.0,30.0,42.0,42.0,37.0,35.0,Teaching fields,Education
+Bilingual and multilingual education,na,na,na,na,35.0,50.0,30.0,27.0,52.0,38.0,Teaching fields,Education
+Business education,14.0,13.0,na,na,na,na,na,na,na,na,Teaching fields,Education
+English as a second or foreign language,na,na,na,na,na,na,58.0,94.0,70.0,56.0,Teaching fields,Education
+English education,71.0,51.0,61.0,64.0,32.0,35.0,31.0,33.0,39.0,34.0,Teaching fields,Education
+"Family, consumer, and human sciences",31.0,19.0,23.0,24.0,10.0,19.0,20.0,24.0,16.0,8.0,Teaching fields,Education
+Foreign languages education,68.0,57.0,60.0,55.0,60.0,54.0,39.0,31.0,39.0,26.0,Teaching fields,Education
+Health education,61.0,53.0,45.0,49.0,35.0,52.0,43.0,53.0,70.0,65.0,Teaching fields,Education
+Literacy and reading educationm,121.0,118.0,83.0,80.0,124.0,126.0,127.0,123.0,137.0,139.0,Teaching fields,Education
+Mathematics education,127.0,161.0,144.0,142.0,114.0,138.0,142.0,133.0,182.0,146.0,Teaching fields,Education
+Music education,76.0,68.0,83.0,86.0,69.0,91.0,104.0,114.0,87.0,75.0,Teaching fields,Education
+Nursing education,23.0,13.0,30.0,23.0,18.0,33.0,30.0,32.0,74.0,53.0,Teaching fields,Education
+Physical education and coaching,50.0,34.0,34.0,43.0,38.0,44.0,35.0,36.0,38.0,22.0,Teaching fields,Education
+Science education,94.0,119.0,96.0,93.0,110.0,114.0,112.0,122.0,133.0,101.0,Teaching fields,Education
+Social science education,22.0,21.0,21.0,27.0,20.0,22.0,16.0,24.0,28.0,19.0,Teaching fields,Education
+"Teacher education and professional development, othern",64.0,76.0,50.0,43.0,26.0,57.0,61.0,35.0,128.0,58.0,Teaching fields,Education
+Trade and industrial education,13.0,28.0,na,na,na,na,na,na,na,na,Teaching fields,Education
+Workforce education and development,na,na,na,na,na,na,32.0,36.0,36.0,60.0,Other education,Education
+"Education, general",239.0,209.0,152.0,122.0,121.0,128.0,135.0,140.0,369.0,145.0,Other education,Education
+"Education, other",258.0,272.0,209.0,177.0,143.0,137.0,102.0,121.0,188.0,170.0,Other education,Education
+Arabic language and literature,7.0,5.0,14.0,8.0,12.0,9.0,14.0,6.0,5.0,8.0,Foreign languages and literature,Humanities and arts
+Chinese language and literature,22.0,35.0,41.0,29.0,20.0,37.0,17.0,28.0,17.0,29.0,Foreign languages and literature,Humanities and arts
+French language and literature,120.0,114.0,110.0,114.0,122.0,140.0,139.0,137.0,107.0,92.0,Foreign languages and literature,Humanities and arts
+Germanic language and literature,80.0,70.0,64.0,71.0,90.0,74.0,84.0,72.0,67.0,72.0,Foreign languages and literature,Humanities and arts
+Italian language and literature,31.0,39.0,35.0,38.0,50.0,44.0,39.0,40.0,34.0,45.0,Foreign languages and literature,Humanities and arts
+Japanese language and literature,17.0,18.0,27.0,16.0,20.0,21.0,23.0,21.0,10.0,16.0,Foreign languages and literature,Humanities and arts
+Latin American languages and literature,na,na,na,na,57.0,66.0,83.0,79.0,96.0,29.0,Foreign languages and literature,Humanities and arts
+Russian language and literature,27.0,18.0,23.0,34.0,24.0,30.0,25.0,21.0,14.0,25.0,Foreign languages and literature,Humanities and arts
+Slavic (other than Russian),2.0,10.0,na,na,na,na,na,na,na,na,Foreign languages and literature,Humanities and arts
+Spanish language and literature,244.0,235.0,231.0,247.0,205.0,216.0,181.0,186.0,127.0,182.0,Foreign languages and literature,Humanities and arts
+"Foreign languages and literatures, other",77.0,54.0,56.0,87.0,84.0,64.0,69.0,66.0,122.0,126.0,Foreign languages and literature,Humanities and arts
+African history,22.0,29.0,30.0,29.0,38.0,32.0,32.0,30.0,26.0,22.0,History,Humanities and arts
+"American history, United States and Canada",384.0,432.0,391.0,432.0,440.0,444.0,433.0,412.0,391.0,368.0,History,Humanities and arts
+Asian history,74.0,55.0,59.0,68.0,73.0,85.0,78.0,89.0,73.0,55.0,History,Humanities and arts
+European history,196.0,214.0,193.0,224.0,186.0,186.0,232.0,198.0,207.0,173.0,History,Humanities and arts
+"History, science and technology and society",48.0,56.0,46.0,47.0,49.0,53.0,78.0,72.0,66.0,160.0,History,Humanities and arts
+Latin American history,62.0,67.0,65.0,52.0,63.0,77.0,73.0,64.0,77.0,61.0,History,Humanities and arts
+"Middle, Near East history",59.0,61.0,65.0,63.0,60.0,71.0,68.0,82.0,63.0,70.0,History,Humanities and arts
+"History, general",64.0,64.0,78.0,68.0,93.0,105.0,121.0,108.0,155.0,70.0,History,Humanities and arts
+"History, other",62.0,67.0,78.0,82.0,84.0,95.0,71.0,91.0,90.0,87.0,History,Humanities and arts
+"American literature, United States and Canada",338.0,327.0,361.0,367.0,409.0,397.0,349.0,334.0,342.0,311.0,Letters,Humanities and arts
+Classics,72.0,77.0,86.0,91.0,101.0,101.0,91.0,94.0,109.0,80.0,Letters,Humanities and arts
+Comparative literature,166.0,179.0,197.0,192.0,201.0,218.0,196.0,165.0,172.0,166.0,Letters,Humanities and arts
+Creative writing,73.0,76.0,81.0,84.0,93.0,79.0,87.0,97.0,79.0,84.0,Letters,Humanities and arts
+English language,156.0,104.0,146.0,179.0,154.0,92.0,147.0,153.0,127.0,159.0,Letters,Humanities and arts
+"English literature, British and Commonwealth",397.0,388.0,419.0,354.0,423.0,399.0,396.0,412.0,414.0,369.0,Letters,Humanities and arts
+Folklore,13.0,10.0,11.0,10.0,6.0,9.0,17.0,6.0,NA,na,Letters,Humanities and arts
+Rhetoric and composition,na,na,na,na,154.0,220.0,207.0,238.0,211.0,227.0,Letters,Humanities and arts
+Speech and rhetorical studies,126.0,138.0,152.0,165.0,53.0,33.0,29.0,42.0,39.0,42.0,Letters,Humanities and arts
+"Letters, general",34.0,74.0,22.0,25.0,18.0,26.0,12.0,22.0,23.0,13.0,Letters,Humanities and arts
+"Letters, other",45.0,40.0,41.0,46.0,26.0,32.0,20.0,20.0,15.0,14.0,Letters,Humanities and arts
+Archaeology (humanities),47.0,58.0,60.0,87.0,79.0,72.0,105.0,121.0,166.0,126.0,Other humanities and arts,Humanities and arts
+"Art history, criticism, and conservation",208.0,226.0,248.0,242.0,227.0,265.0,263.0,272.0,278.0,247.0,Other humanities and arts,Humanities and arts
+"Bible, biblical studies",79.0,74.0,97.0,103.0,95.0,106.0,86.0,87.0,62.0,85.0,Other humanities and arts,Humanities and arts
+Dance,na,na,na,na,na,na,na,na,13.0,11.0,Other humanities and arts,Humanities and arts
+"Drama, theater arts",83.0,104.0,104.0,106.0,111.0,120.0,104.0,86.0,74.0,75.0,Other humanities and arts,Humanities and arts
+Ethics,na,na,na,na,29.0,26.0,29.0,30.0,38.0,30.0,Other humanities and arts,Humanities and arts
+"Film, cinema, video studies",na,na,na,na,62.0,67.0,71.0,67.0,73.0,79.0,Other humanities and arts,Humanities and arts
+"Jewish, Judaic studies",na,na,na,na,17.0,33.0,27.0,27.0,27.0,28.0,Other humanities and arts,Humanities and arts
+Music,67.0,74.0,66.0,81.0,67.0,88.0,64.0,54.0,59.0,74.0,Other humanities and arts,Humanities and arts
+Musicology and ethnomusicology,106.0,127.0,135.0,137.0,138.0,128.0,140.0,148.0,127.0,157.0,Other humanities and arts,Humanities and arts
+Music performance,60.0,85.0,106.0,93.0,113.0,124.0,77.0,110.0,92.0,90.0,Other humanities and arts,Humanities and arts
+Music theory and composition,90.0,99.0,91.0,95.0,95.0,102.0,104.0,108.0,92.0,86.0,Other humanities and arts,Humanities and arts
+"Music, other",17.0,18.0,18.0,22.0,21.0,29.0,20.0,23.0,19.0,17.0,Other humanities and arts,Humanities and arts
+Philosophy,400.0,422.0,431.0,462.0,497.0,494.0,454.0,463.0,454.0,419.0,Other humanities and arts,Humanities and arts
+"Religion, religious studies",333.0,326.0,282.0,312.0,290.0,301.0,292.0,314.0,254.0,310.0,Other humanities and arts,Humanities and arts
+"Theology, religious education",138.0,129.0,160.0,150.0,184.0,173.0,156.0,172.0,210.0,166.0,Other humanities and arts,Humanities and arts
+"Humanities, general",14.0,49.0,28.0,43.0,16.0,31.0,34.0,27.0,106.0,55.0,Other humanities and arts,Humanities and arts
+"Humanities, other",76.0,57.0,67.0,71.0,112.0,101.0,87.0,100.0,58.0,80.0,Other humanities and arts,Humanities and arts
+Accounting,140.0,141.0,148.0,157.0,175.0,168.0,196.0,194.0,178.0,153.0,Business management and administration,Other
+Banking/financial services,4.0,5.0,5.0,1.0,na,na,na,na,na,na,Business management and administration,Other
+Business administration and management,204.0,173.0,157.0,146.0,221.0,269.0,243.0,232.0,263.0,273.0,Business management and administration,Other
+"Business, managerial economics",18.0,24.0,29.0,26.0,31.0,24.0,22.0,43.0,26.0,33.0,Business management and administration,Other
+Finance,241.0,213.0,210.0,200.0,232.0,260.0,265.0,241.0,251.0,188.0,Business management and administration,Other
+"Hospitality, food service and tourism management",na,na,36.0,59.0,57.0,71.0,65.0,46.0,66.0,76.0,Business management and administration,Other
+Human resources development,65.0,74.0,70.0,70.0,44.0,44.0,68.0,51.0,30.0,27.0,Business management and administration,Other
+"International business, trade, commerce",31.0,37.0,25.0,28.0,21.0,33.0,30.0,24.0,24.0,20.0,Business management and administration,Other
+"Management information systems, business statistics",156.0,136.0,108.0,100.0,103.0,107.0,100.0,102.0,107.0,90.0,Business management and administration,Other
+Marketing management and research,190.0,183.0,157.0,156.0,174.0,191.0,152.0,181.0,140.0,139.0,Business management and administration,Other
+Operations research (business),78.0,51.0,84.0,70.0,80.0,103.0,91.0,110.0,83.0,66.0,Business management and administration,Other
+Organizational behavior,157.0,167.0,175.0,189.0,163.0,186.0,212.0,189.0,168.0,269.0,Business management and administration,Other
+"Business management and administration, general",60.0,90.0,102.0,67.0,50.0,40.0,68.0,68.0,114.0,107.0,Business management and administration,Other
+"Business management and administration, other",77.0,111.0,60.0,58.0,53.0,55.0,72.0,102.0,59.0,81.0,Business management and administration,Other
+Communication research,104.0,129.0,120.0,125.0,126.0,155.0,149.0,149.0,183.0,111.0,Communication,Other
+Communication theory,32.0,38.0,34.0,29.0,31.0,30.0,39.0,41.0,63.0,34.0,Communication,Other
+"Film, radio, TV and digital communication",62.0,64.0,73.0,77.0,43.0,30.0,35.0,37.0,23.0,34.0,Communication,Other
+"Mass communication, media studies",175.0,206.0,214.0,212.0,199.0,239.0,251.0,242.0,211.0,231.0,Communication,Other
+"Communication, general",103.0,120.0,119.0,117.0,117.0,107.0,123.0,119.0,143.0,146.0,Communication,Other
+"Communication, other",81.0,70.0,78.0,90.0,79.0,84.0,66.0,79.0,49.0,70.0,Communication,Other
+Architecture and environmental design,75.0,81.0,81.0,81.0,109.0,101.0,118.0,116.0,99.0,118.0,Non-S&E fields nec,Other
+"Family, consumer sciences and human sciences",58.0,59.0,48.0,54.0,50.0,57.0,51.0,47.0,39.0,79.0,Non-S&E fields nec,Other
+Law,88.0,73.0,68.0,57.0,53.0,81.0,76.0,76.0,67.0,86.0,Non-S&E fields nec,Other
+Library science,31.0,25.0,40.0,35.0,49.0,39.0,39.0,41.0,32.0,47.0,Non-S&E fields nec,Other
+"Parks, sports, recreation, leisure and fitness",76.0,69.0,54.0,63.0,61.0,76.0,67.0,52.0,83.0,49.0,Non-S&E fields nec,Other
+Public administration,114.0,129.0,126.0,118.0,132.0,127.0,119.0,121.0,143.0,185.0,Non-S&E fields nec,Other
+Social work,338.0,333.0,308.0,289.0,280.0,330.0,325.0,307.0,294.0,298.0,Non-S&E fields nec,Other
+Other fields nec,4.0,6.0,0.0,9.0,1.0,16.0,1.0,10.0,3.0,103.0,Non-S&E fields nec,Other
