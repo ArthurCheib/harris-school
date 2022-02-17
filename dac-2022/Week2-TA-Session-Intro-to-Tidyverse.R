@@ -164,7 +164,7 @@ gap_dataset %>%
 
 ## Group the data by continent
 gapminder %>% 
-  group_by(year)
+  group_by(continent)
 
 ## Group the data by continent and year
 gapminder %>% 
@@ -180,7 +180,7 @@ gapminder %>%
 
 ## Getting the mean life expectancy for each of our continents inside the data frame
 gapminder %>% 
-  group_by(continent) %>% 
+  group_by(continent, year) %>% 
   summarize(avg_lifeExp = mean(lifeExp))
 
 ## Results are not meaningful - let's try it by year
@@ -252,7 +252,7 @@ gapminder_by_year_cont <- gapminder %>%
 # Plot the change in mean gdp per capita in each continent over time
 gapminder_by_year_cont %>% 
   ggplot(aes(x = year, y = meanGdpPercap, color = continent)) +
-  geom_point() +
+  geom_point(size = 6) +
   expand_limits(y = 0) +
   labs(title = "Mean gdp per capita - per continent",
        subtitle = "DAC-2022")

@@ -1,29 +1,17 @@
 
 ### Schedule for today
 
-## 1) Go through the five main functions that Prof. Austin cover on this week lecture on R + rexplanation of the pipe operator
-## 2) Introduction to function "lag" - which can be pretty useful for comparisons
-## 3) Some exercises with gapminder dataset
+## 1) Go through the main joins functions that Prof. Austin cover on this week lecture on R
+## 2) Explanation of function pivot_longer and pivot_wider (superseded version of spread/gather)
+## 3) Quick exercises with separate/unite functions
 
 # Always start with the libraries you plan to use in your script!
 library(tidyverse)
-library(lubridate)
 library(gapminder)
 
 # We will also need the data in the package nycflights13
 install.packages("nycflights13")
 library(nycflights13)
-
-########################################
-######### Overview & Tidy Data #########
-########################################
-
-## Today we will learn the following verbs/topics:
-
-# joins: combine different datasets           - very common
-# gather/spread: transform wide to long       - very common
-# separate/unite: separate into multiple cols - uncommon
-
 
 ##### Joins #####
 
@@ -36,37 +24,31 @@ library(nycflights13)
 # Mutating joins - add new variables to one tibble from matching values in another
 # Filtering joins - filter observations from one tibble based on whether or not they match a value in another
 
-# Datasets are connected by 'keys', which are shared values across each tibble. You can use these keys to join different rows of data together.
+# Datasets are connected by 'keys', which are shared values across each tibble.
+# You can use these keys to join different rows of data together.
 
 # Join in R = VLOOKUP or HLOOKUP in Excel (for intuition/reference)
 
 # Subset our data, keeping only the columns we care about
-data_countries <- gapminder::gapminder
-
-code_countries <- gapminder::country_codes
-
-data <- data_countries %>% 
-  left_join(code_countriez, by = "country") %>% 
-  select(iso_alpha, continent, year, lifeExp, pop, gdpPercap)
+flights2 <- flights %>%
+  select(year:day, hour, origin, dest, tailnum, carrier)
 
 ### Mutating joins
-
 data(airlines)
 
 # Join the full airline name onto flights2 by the carrier column
 # A left join keeps all observations in the left tibble
-temp <- flights2 %>%
-  left_join(airlines, by = "carrier")
+airlines <- airlines %>% 
+  setNames(c("ID", "name"))
 
-left_join(flights2, airlines, by = "carrier")
-temp2 <- left_join(airlines, flights2, by = "carrier")
+result <- flights2 %>%
+  left_join(airlines, by = c("origin" = "ID"))
 
-
-right_join(flights2, airlines, by = "carrier")
-
+flights2 <- flights2 %>% 
+  filter(carrier !=  "9E")
 
 # A right join keeps all observations in the right tibble
-flights2 %>%
+result3 <- flights2 %>%
   right_join(airlines, by = "carrier")
 
 # A full join will keep all observations from both sides
@@ -106,11 +88,11 @@ temp <- flights2 %>%
   left_join(top_dest, by = "dest")
 
 # This will yield only flights to the top 10 destinations
-temp <- flights %>%
+temp1 <- flights %>%
   semi_join(top_dest, by = "dest")
 
-temp <- flights %>%
-  filter(dest %in% top_dest$dest)
+temp2 <- flights %>%
+  anti_join(top_dest, by = "dest")
 
 ## QUESTION: Filter flights to only show flights with planes that have flown at least 100 flights.
 
@@ -138,13 +120,24 @@ weather %>%
 
 ##### Gather/Spread #####
 
-# Let's first load a built-in R dataset. This data starts in the wide format, there are columns that could be treated as observations
-data(airquality) %>% 
-  as_tibble()
+# pivot_longer = gather
 
-# We can convert data from wide to long using gather()
-airquality_long <- airquality %>% as_tibble()
-  gather(key = type, value = measurement, Ozone:Temp)
+flights2
+
+# pivot_wider = spread
+
+# Let's first load a built-in R dataset. This data starts in the wide format, there are columns that could be treated as observations
+data("gapminder")
+
+gapminder2 <- gapminder %>% 
+  as_tibble() %>% 
+  pivot_longer(names_to = "main_indicators", values_to = "values", 4:6)
+
+# We can convert data from wide to long using pivot_wider
+gapminder3 <- gapminder2 %>% 
+  pivot_wider(names_from = main_indicators, values_from = values)
+
+
 
 # And can convert from long back to wide using spread()
 airquality_long %>%
@@ -181,16 +174,27 @@ phds_long %>%
 
 # Unite() will combine the selected columns into a new column. For example, here I combine the year, month, and day of the flights dataset into a new column called date
 united <- flights2 %>%
-  unite(date, year, month, day)
+  unite("date", year, month, day)
 
 # Separate() is the opposite of unite. It will divide a column into multiple columns, splitting on some separator that you specify.
 united %>%
-  separate(date, into = c("year", "month", "day"))
+  separate(date, into = c("year", "month", "day"), sep = "_", remove = FALSE)
 
 # QUESTION: Use unite(), mutate(), and as.Date() to convert the year, month, and day columns of flights2 into a date column
 
-flights2 %>%
-  unite(date, year, month, day, sep = '-') %>%
-  mutate(date = as.Date(date))
+
+# mutate
+# filter
+# arrange
+# group_by
+# summarize
+# left_join
+# anti_join
+# pivot_wider
+# pivot_longer
+# separate
+# unite
+
+
 
 
