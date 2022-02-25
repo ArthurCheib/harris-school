@@ -1,0 +1,43 @@
+---
+title: "Policy memo - Microeconomics II"
+author: 'Group #13'
+date: "2/15/2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+## Loading the necessary packages and installing them
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyverse, wesanderson, ggthemes, scales, data.table, lubridate, hrbrthemes, geosphere, leaflet, leaflet.extras)
+
+## Getting the data dictionary
+dataset_url <- "https://raw.githubusercontent.com/ArthurCheib/harris-school/main/micro-ii/policy-memo/01-traffic-people-dictionary.csv"
+
+traffic_people_dictionary <- read.csv(dataset_url)
+
+```
+
+## Instructions
+
+**Role:** economic advisor to the mayor of Chicago
+
+**Situation:** implementation of a new (lower) speed limit violation enforcement for drivers in Chicago
+
+**City's claim:**
+(i) policy is a response to an increase in speeding and road accidents (severe injuries and deaths)
+(ii) goal, therefore, is to encourage safer driving behaviour and discourage speeding that is correlated with more severe injuries and deaths in traffic crashes
+
+**City's possible future policy:**
+(i) installing more speed cameras for safety of drivers, pedestrians, cyclists and motorists, because speed cameras can reduce crashes substantially
+
+**Citizens' response to the new policy**
+(i) skeptical about the safety issues
+(ii) skeptical about the expense of maintaining the program
+(iii) skeptical about dubious efficacy of enforcement
+(iv) new speed policy provides leniency for those with economic hardships (+covid)
+
+**Position we need to assume over following two topics**
+(i) whether or not the task force should resume the new speed limit violation rule;
+(ii) whether or not it's necessary to install more speed cameras in the city
