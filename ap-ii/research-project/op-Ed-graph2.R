@@ -43,7 +43,7 @@ dataset_graph %>%
   scale_fill_manual(values = c("#9999CC", "#66CC99")) +
   scale_y_continuous(limits = c(0,6), breaks = c(seq(from = 0, to = 6, by = 1))) +
   labs(title ="IDEB variation according to the presence of PME",
-       subtitle = "Standardized tests scores difference between the level of management capacity",
+       subtitle = "Scores on standardized tests among municipalities that adopted or not the PME",
        y = "",
        fill = "",
        x = "",
@@ -68,14 +68,14 @@ dataset_graph %>%
   theme_wsj() +
   facet_wrap(~Ano) +
   scale_fill_manual(values = c("#9999CC", "#66CC99")) +
-  scale_y_continuous(limits = c(0, 100), breaks = c(seq(from = 0, to = 100, by = 20))) +
-  labs(title = "PME implementation in Brazilian Municipalities",
-       subtitle = "Values for 2014 and 2018",
+  scale_y_continuous(labels = label_percent(scale = 1), limits = c(0, 100), breaks = c(seq(from = 0, to = 100, by = 20))) +
+  labs(title = "PME Implementation among Brazilian Municipalities",
+       subtitle = "Values obtained for roughly 60% of Brazil's municipalities",
        y = "",
        fill = "",
        x = "",
        caption = "Source: Brazilian Government - MUNIC | Ministry of Education") +
-  geom_text(aes(label = perc_implemented), vjust = -0.5, size = 5) +
+  geom_text(aes(label = perc_implemented, vjust = -0.5, size = 5)) +
   theme(legend.position = "none",
         plot.title = element_text(size = 16.5),
         plot.subtitle = element_text(size = 13.5),

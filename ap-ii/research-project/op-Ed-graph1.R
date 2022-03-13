@@ -33,13 +33,13 @@ dataset %>%
                              partido == 3 ~ "Left-wing"), levels = c("Left-wing", "Centrist", "Right-wing"))) %>% 
   group_by(partido) %>% 
   summarize(avg_investment = mean(investAluno)) %>% 
-  ggplot(aes(x = partido, y = avg_investment, fill = partido)) +
+  ggplot(aes(x = partido, y = avg_investment/1000, fill = partido)) +
   geom_col() +
   theme_wsj() +
   scale_fill_tol("light") +
-  scale_y_continuous(limits = c(0,30000), breaks = c(seq(from = 0, to = 29000, by = 5000))) +
+  scale_y_continuous(limits = c(0,30), breaks = c(seq(from = 0, to = 29, by = 5))) +
   labs(title ="Average Investment per Student in Brazilian municipalities",
-       subtitle = "Amount invested in BRA currency - R$",
+       subtitle = "Amount invested in BRL currency (R$) - in thousands",
        y = "",
        fill = "",
        x = "",
@@ -47,7 +47,8 @@ dataset %>%
   theme(legend.position = "none",
         plot.title = element_text(size = 16.5),
         plot.subtitle = element_text(size = 13.5),
-        plot.caption = element_text(size = 12))
+        plot.caption = element_text(size = 12)) +
+  geom_text(aes(label = str_c("$", round(avg_investment/1000, digits = 0)), vjust = -0.5, size = 5))
 
 
 ## Data
@@ -66,3 +67,4 @@ dataset %>%
                                     partido == 3 ~ "Left-wing"), levels = c("Left-wing", "Centrist", "Right-wing"))) %>% 
   group_by(partido) %>% 
   summarize(avg_investment = mean(investAluno))
+  
