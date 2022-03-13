@@ -37,7 +37,7 @@ dataset %>%
   geom_col() +
   theme_wsj() +
   scale_fill_tol("light") +
-  scale_y_continuous(limits = c(0,25000), breaks = c(seq(from = 0, to = 25000, by = 5000))) +
+  scale_y_continuous(limits = c(0,30000), breaks = c(seq(from = 0, to = 29000, by = 5000))) +
   labs(title ="Average Investment per Student in Brazilian municipalities",
        subtitle = "Amount invested in BRA currency - R$",
        y = "",

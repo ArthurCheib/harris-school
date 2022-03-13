@@ -40,7 +40,6 @@ dataset_graph %>%
   geom_col() +
   theme_wsj() +
   facet_wrap(~Ano) +
-  #scale_fill_tol("light") +
   scale_fill_manual(values = c("#9999CC", "#66CC99")) +
   scale_y_continuous(limits = c(0,6), breaks = c(seq(from = 0, to = 6, by = 1))) +
   labs(title ="IDEB variation according to the presence of PME",
@@ -55,3 +54,30 @@ dataset_graph %>%
         plot.subtitle = element_text(size = 13.5),
         plot.caption = element_text(size = 12))
   
+
+### Total municipalities implemented x not implemented
+dataset_graph %>% 
+  group_by(Ano, PME) %>% 
+  summarize(total_implemented = n()) %>%
+  mutate(perc_implemented = round(total_implemented/sum(total_implemented)*100, digits = 1)) %>% 
+  ungroup() %>% 
+  mutate(PME = factor(case_when(PME == 1 ~ "Adopted PME",
+                                TRUE ~ "Hasn't adopted PME"),levels = c("Hasn't adopted PME", "Adopted PME"))) %>% 
+  ggplot(aes(x = PME, y = perc_implemented, fill = PME)) +
+  geom_col() +
+  theme_wsj() +
+  facet_wrap(~Ano) +
+  scale_fill_manual(values = c("#9999CC", "#66CC99")) +
+  scale_y_continuous(limits = c(0, 100), breaks = c(seq(from = 0, to = 100, by = 20))) +
+  labs(title = "PME implementation in Brazilian Municipalities",
+       subtitle = "Values for 2014 and 2018",
+       y = "",
+       fill = "",
+       x = "",
+       caption = "Source: Brazilian Government - MUNIC | Ministry of Education") +
+  geom_text(aes(label = perc_implemented), vjust = -0.5, size = 5) +
+  theme(legend.position = "none",
+        plot.title = element_text(size = 16.5),
+        plot.subtitle = element_text(size = 13.5),
+        plot.caption = element_text(size = 12))
+
