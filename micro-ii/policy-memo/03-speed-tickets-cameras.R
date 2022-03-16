@@ -24,13 +24,14 @@ df_speed_tickets <- speed_tickets %>%
 ## Getting the line for the graph
 df_line_graph <- data.table::fread(input = "micro-ii/policy-memo/data/line-graph.csv")
 
-## Making a line of monthly average tickets
+## Checking the total violations that took place in Chicago - per year
 df_speed_tickets %>%
   ungroup() %>% 
   filter(date < ymd("2022-02-1")) %>%
   mutate(total_violations = total_violations) %>% 
   group_by(year(date)) %>% 
-  summarize(total_violations = sum(total_violations))
+  summarize(total_violations = sum(total_violations)) %>% 
+  setNames(c("Year", "Total Violations"))
 
 ## Grapghing
 df_speed_tickets %>%
